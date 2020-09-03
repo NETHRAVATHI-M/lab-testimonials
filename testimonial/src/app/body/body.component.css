@@ -12,7 +12,7 @@
   width: 400px;
 }
 
-.strong {
+.say {
   color: red;
   top: 40%;
   position: absolute;
@@ -36,7 +36,7 @@
   top: 1200%;
 }
 
-.name {
+.icon1 {
   padding: 20px;
   margin-left: 100px;
   position: absolute;
