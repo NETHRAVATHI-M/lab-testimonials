@@ -1,0 +1,45 @@
+.body {
+  left: 100px;
+  /* margin-top: 180px; */
+
+  display: flex;
+  flex-wrap: wrap;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  flex-direction: row;
+  font-size: 1em;
+  color: black;
+  width: 400px;
+}
+
+.strong {
+  color: red;
+  top: 40%;
+  position: absolute;
+  left: 80px;
+}
+
+.img {
+  top: 30%;
+  padding: 20px;
+}
+
+.name1 {
+  position: absolute;
+  margin-left: 100px;
+  top: 850%;
+}
+
+.name2 {
+  position: absolute;
+  margin-left: 100px;
+  top: 1200%;
+}
+
+.name {
+  padding: 20px;
+  margin-left: 100px;
+  position: absolute;
+
+  width: 30%;
+}

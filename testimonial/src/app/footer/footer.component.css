@@ -1,0 +1,35 @@
+.play-container {
+  padding: 3em;
+  border: 1px solid lightgray;
+  margin-bottom: 1rem;
+  top: 480px;
+  margin-left: 120px;
+  margin-top: 220px;
+  position: absolute;
+
+  font-size: 1em;
+  color: black;
+  width: 800px;
+  border-top-left-radius: 5em;
+  border-bottom-right-radius: 5em;
+}
+
+.name {
+  top: 1300%;
+  margin-left: 100px;
+  width: 50%;
+}
+
+.btn {
+  top: 1300%;
+  margin-left: 100px;
+  width: 10%;
+  background-color: red;
+  color: white;
+  height: 25px;
+}
+
+input {
+  margin-bottom: 2em;
+  padding: 1em;
+}
